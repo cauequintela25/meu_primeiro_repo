@@ -1,2 +1,7 @@
 Meu Primeiro Repo
 Per Aspera Ad Dev
+
+C# ==> Visual Studio
+Go ==> Goland ou VS Code
+JS ==> VS Code
+Swift ==> Xcode
