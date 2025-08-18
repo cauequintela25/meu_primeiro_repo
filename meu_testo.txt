@@ -6,3 +6,8 @@ Go ==> Goland ou VS Code
 JS ==> VS Code
 Swift ==> Xcode
 PHP ==> VS Code
+
+Enviando a 
+funcionalidade 
+X
+
